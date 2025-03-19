@@ -12,7 +12,7 @@ Ensure you have the following installed on your system
 
 ## Installation
 
-First, check out the dotfiles repo in your $HOME directory using git
+First, check out the dotfiles repo in your `$HOME` directory using git
 
 ```
 git clone git@github.com:ryywh45/dotfiles.git
