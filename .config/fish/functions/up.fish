@@ -17,4 +17,13 @@ function up
     echo "`go install github.com/jesseduffield/lazygit@latest`"
     set_color normal
     go install github.com/jesseduffield/lazygit@latest
+
+    set_color yellow
+    echo "[Update lazydocker]"
+    set_color normal
+    echo -n "Running "
+    set_color green
+    echo "`go install github.com/jesseduffield/lazydocker@latest`"
+    set_color normal
+    go install github.com/jesseduffield/lazydocker@latest
 end
