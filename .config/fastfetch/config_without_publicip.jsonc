@@ -44,9 +44,14 @@
             "key": "│ ├ Swap",
             "keyColor": "green"
         },
-        {
+	{
             "type": "disk",
-            "key": "└ └ Disk",
+            "key": "│ ├ Disk",
+            "keyColor": "green"
+        },
+        {
+            "type": "battery",
+            "key": "└ └ Battery",
             "keyColor": "green"
         },
         {
